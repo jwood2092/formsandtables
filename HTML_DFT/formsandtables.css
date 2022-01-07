@@ -1,0 +1,40 @@
+form {
+    max-width: 600px;
+    width: fit-content;
+    padding: 16px;
+    margin: 20px;
+    border: 1px solid#ddd;
+    box-shadow: 0px 0px 5px #ccc;
+}
+
+.formsection {
+    margin: 8px 0;
+    padding: 8px;
+}
+
+.d-block {
+    display: block;
+}
+
+form fieldset {
+    width: fit-content;
+    border: none;
+    padding: 0;
+}
+
+form input {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 20px;
+}
+
+.form-label {
+    font-size: 20px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+    padding-bottom: 8px;
+    display: block;
+    width: fit-content;
+}
